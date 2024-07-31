@@ -1,0 +1,11 @@
+{
+  "name": "NUKE (.NET)",
+  "id": "dotnet-nuke",
+  "version": "1.0.0",
+  "description": "A feature for installing NUKE (https://nuke.build)",
+  "options": {},
+  "mounts": [],
+  "dependsOn": {
+    "ghcr.io/devcontainers/features/dotnet": {}
+  }
+}
